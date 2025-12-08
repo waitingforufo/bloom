@@ -1,0 +1,19 @@
+# 源码
+src/
+__test__/
+__mocks__/
+
+# 配置文件
+tsconfig.json
+jest.config.*
+.eslintrc.*
+.prettierrc.*
+
+# 测试相关
+coverage/
+*.test.ts
+*.spec.ts
+
+# 开发文件
+*.log
+*.md

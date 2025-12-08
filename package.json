@@ -1,0 +1,19 @@
+{
+  "name": "bloom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "install-all": "npm -ws install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "jdr-core-lib",
+    "jdr-core-ui",
+    "jdr-demo"
+  ],
+  "keywords": [],
+  "author": "JDR",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {}
+}

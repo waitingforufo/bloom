@@ -1,0 +1,22 @@
+.star {
+  font-size: large;
+  cursor: pointer;
+
+  :hover {
+    color: grey;
+  }
+}
+
+.starActive {
+  color: red;
+}
+
+.starInactive {
+  color: #ccc;
+}
+
+.rating-secondary {
+  background-color: black;
+  color: white;
+  padding: 6px;
+}
